@@ -1,9 +1,9 @@
-<center>
+<div align="center">
   <h2>👋 Hi, I'm Colbster937!</h2>
   <a href="https://discord.com/users/1061098091626897458"><img src="https://colbster937.github.io/devins-badges/assets/compact-minimal/social/discord-singular_vector.svg"></a>
   <a href="https://ko-fi.com/K3K11MBGYQ"><img src="https://colbster937.github.io/devins-badges/assets/compact-minimal/donate/kofi-singular_vector.svg"></a>
   <a href="https://modrinth.com/user/colbster937"><img src="https://colbster937.github.io/devins-badges/assets/compact-minimal/available/modrinth_vector.svg"></a>
-</center>
+</div>
 <h2>📊 Stats</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://colbster-github-readme-stats.vercel.app/api?username=colbster937&theme=catppuccin_mocha&hide_border=true&show_icons=true" />
